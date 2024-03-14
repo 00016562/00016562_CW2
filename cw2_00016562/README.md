@@ -13,7 +13,6 @@ Here is the folder structure I used for the project:
 
 GitHub Repo Link: [Placeholder for GitHub repo link]
 
-Deployed Version Link: [Placeholder for deployed version link]
 
 I used the following technologies to buil this project:
 
