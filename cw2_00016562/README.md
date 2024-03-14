@@ -11,7 +11,7 @@ Here is the folder structure I used for the project:
 /views => pug files, e.g pages
 /index.js => main file
 
-GitHub Repo Link: []
+GitHub Repo Link: [https://github.com/00016562/00016562_CW2.git]
 
 
 I used the following technologies to buil this project:
