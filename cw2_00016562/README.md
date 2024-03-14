@@ -11,7 +11,7 @@ Here is the folder structure I used for the project:
 /views => pug files, e.g pages
 /index.js => main file
 
-GitHub Repo Link: [Placeholder for GitHub repo link]
+GitHub Repo Link: []
 
 
 I used the following technologies to buil this project:
